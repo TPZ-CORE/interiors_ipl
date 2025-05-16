@@ -1,5 +1,5 @@
-# interiors_ipl (I DO NOT OWN THIS SCRIPT)
-The specified script is made to fix missing interiors in RedM.
+# interiors_ipl
+The specified script is made to fix missing interiors in RedM (I DO NOT OWN THIS SCRIPT).
 
 # Contributions:
 
